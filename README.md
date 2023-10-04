@@ -1,7 +1,7 @@
 # SLEM Code Repository
 Welcome to the code repository for Step-wise deep LEarning technique with Multi-precision data **(SLEM)**.
 
-This repository provides **source codes for model training and model analysis.** Datasets for training and testing models, and example output filess are also available.
+This repository provides **source codes for model training and model analysis.** Datasets for training and testing models, and example output files are also available.
 
 **Citation**: Yousang Jo, Maree J Webster, Sanghyeon Kim, Doheon Lee, Interpretation of SNP combination effects on schizophrenia etiology based on stepwise deep learning with multi-precision data, Briefings in Functional Genomics, 2023.<br>
 https://doi.org/10.1093/bfgp/elad041
